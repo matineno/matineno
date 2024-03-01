@@ -26,4 +26,4 @@ Hello, world! I'm Martin’s Adogamhe, a software development student based in C
 [![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)](https://your-js-skills-url.com)
 
 ## Stats
-![Martin’s Adogamhe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matineno&show_icons=true&theme=radical)
+![Martin’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=matineno&show_icons=true&theme=radical)
