@@ -20,6 +20,17 @@ I'm passionate about crafting elegant and functional websites using HTML, CSS, a
 
 Would you like to collaborate or learn more about my work? Feel free to reach out! I look forward to connecting with you.
 
-[![Ashutosh's github activity graph]([https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710](https://github-readme-activity-graph.vercel.app/graph?username=mrspecht&amp;theme=gotham&amp;hide_border=true" style="max-width: 100%;"))](https://github.com/ashutosh00710/github-readme-activity-graph)
+# Welcome to Martin’s Adogamhe's GitHub Profile! 👋
 
-<!-- src="https://camo.githubusercontent.com/c50566f387dc2dd40a77b7fc5a43828b3ac656dec39a8925eac1090c3d3e63ec/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6d72737065636874267468656d653d676f7468616d26686964655f626f726465723d74727565" alt="Activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=mrspecht&amp;theme=gotham&amp;hide_border=true" style="max-width: 100%;" -->
+![Profile Image](https://your-image-url.com)
+
+## About Me
+Hello, world! I'm Martin’s Adogamhe, a software development student based in Canada. I'm passionate about crafting elegant and functional websites using HTML, CSS, and JavaScript. Currently studying at MITT, I'm eager to expand my skills and contribute to innovative projects in the tech world.
+
+## Skills
+[![HTML](https://img.shields.io/badge/HTML-Expert-orange)](https://your-html-skills-url.com)
+[![CSS](https://img.shields.io/badge/CSS-Expert-blue)](https://your-css-skills-url.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)](https://your-js-skills-url.com)
+
+## Stats
+![Martin’s Adogamhe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
