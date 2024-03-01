@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, world. I'm Martin’s Adogamhe, a software development student based in Canada.
+# About me
+
+Hello, world. I'm Martin’s Adogamhe, a software development student based in Canada.
 
 I'm passionate about crafting elegant and functional websites using HTML, CSS, and JavaScript. Currently studying at MITT, I'm eager to expand my skills and contribute to innovative projects in the tech world.
 
