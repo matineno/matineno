@@ -20,4 +20,6 @@ I'm passionate about crafting elegant and functional websites using HTML, CSS, a
 
 Would you like to collaborate or learn more about my work? Feel free to reach out! I look forward to connecting with you.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph]([https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710](https://github-readme-activity-graph.vercel.app/graph?username=mrspecht&amp;theme=gotham&amp;hide_border=true" style="max-width: 100%;"))](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- src="https://camo.githubusercontent.com/c50566f387dc2dd40a77b7fc5a43828b3ac656dec39a8925eac1090c3d3e63ec/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6d72737065636874267468656d653d676f7468616d26686964655f626f726465723d74727565" alt="Activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=mrspecht&amp;theme=gotham&amp;hide_border=true" style="max-width: 100%;" -->
