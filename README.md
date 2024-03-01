@@ -19,3 +19,5 @@ Hello, world. I'm Martin’s Adogamhe, a software development student based in C
 I'm passionate about crafting elegant and functional websites using HTML, CSS, and JavaScript. Currently studying at MITT, I'm eager to expand my skills and contribute to innovative projects in the tech world.
 
 Would you like to collaborate or learn more about my work? Feel free to reach out! I look forward to connecting with you.
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
