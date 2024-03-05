@@ -49,7 +49,7 @@ Hello, world! I'm Martin’s Adogamhe, a software development student based in C
 <a href="https://github.com/matineno">
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=matineno&theme=dark&bg_color=14151d&text_color=5f93ff&show_icons=true" alt="My GitHub stats" />
 </a>
-<a href="https://github.com/mrspecht">
+<a href="https://github.com/matineno">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matineno&theme=dark&bg_color=14151d&text_color=5f93ff&hide=Ruby&show_icons=true&langs_count=3" alt="My GitHub stats"/>
 </a>
 
