@@ -24,18 +24,24 @@ Hello, world! I'm Martin’s Adogamhe, a software development student based in C
 [![HTML](https://img.shields.io/badge/HTML-Expert-orange)](https://your-html-skills-url.com)
 [![CSS](https://img.shields.io/badge/CSS-Expert-blue)](https://your-css-skills-url.com)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)](https://your-js-skills-url.com)
+<!--
+<p align="center">
+  <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/code-typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=coffeescript&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/db-firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=2aa889")/>
+</p>
+-->
 
 <!--
 ## Stats
 ![Martin’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=matineno&show_icons=true&theme=radical)
 -->
-
-## My stats
-
-<a href="https://github.com/matineno">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=matineno&theme=system&show_icons=true" alt="My GitHub stats" />
-</a>
-<a href="https://github.com/matineno">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrespecht&theme=system&hide=Ruby&show_icons=true&langs_count=3" alt="My 
-  GitHub stats"/>
-</a>
+[![Martins Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matineno&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
