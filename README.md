@@ -40,10 +40,18 @@ Hello, world! I'm Martin’s Adogamhe, a software development student based in C
   <img src="https://img.shields.io/badge/db-firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=5f93ff")/>
 </p>
 
-## Stats
-![Martins GitHub Stats](https://github-readme-stats.vercel.app/api?show_username=false&username=matineno&show_icons=true&theme=dark&bg_color=14151d&text_color=5f93ff)
+##
 
 [![Martins Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matineno&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
+
+<a href="https://github.com/matineno">
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=matineno&theme=dark&bg_color=14151d&text_color=5f93ff&show_icons=true" alt="My GitHub stats" />
+</a>
+<a href="https://github.com/mrspecht">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matineno&theme=dark&bg_color=14151d&text_color=5f93ff&hide=Ruby&show_icons=true&langs_count=3" alt="My GitHub stats"/>
+</a>
 
 
 
