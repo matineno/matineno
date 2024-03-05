@@ -40,10 +40,10 @@ Hello, world! I'm Martin’s Adogamhe, a software development student based in C
   <img src="https://img.shields.io/badge/db-firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=5f93ff")/>
 </p>
 
+## Stats
+![Martin’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=matineno&show_icons=true&theme=tokyo-night)
+
 [![Martins Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matineno&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<!--
-## Stats
-![Martin’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=matineno&show_icons=true&theme=radical)
--->
+
