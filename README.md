@@ -25,5 +25,18 @@ Hello, world! I'm Martin’s Adogamhe, a software development student based in C
 [![CSS](https://img.shields.io/badge/CSS-Expert-blue)](https://your-css-skills-url.com)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)](https://your-js-skills-url.com)
 
+<!--
 ## Stats
 ![Martin’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=matineno&show_icons=true&theme=radical)
+-->
+
+## My stats
+
+<a href="https://github.com/matineno">
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=matineno&theme=vue&show_icons=true" alt="My GitHub stats" />
+</a>
+<a href="https://github.com/matineno">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrespecht&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  GitHub stats"/>
+</a>
+--_>
