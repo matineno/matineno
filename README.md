@@ -24,7 +24,7 @@ Hello, world! I'm Martin’s Adogamhe, a software development student based in C
 [![HTML](https://img.shields.io/badge/HTML-Expert-orange)](https://your-html-skills-url.com)
 [![CSS](https://img.shields.io/badge/CSS-Expert-blue)](https://your-css-skills-url.com)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)](https://your-js-skills-url.com)
-<!--
+
 <p align="center">
   <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
   <img src="https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889")/>&nbsp;
@@ -38,7 +38,7 @@ Hello, world! I'm Martin’s Adogamhe, a software development student based in C
   <img src="https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2aa889")/>&nbsp;
   <img src="https://img.shields.io/badge/db-firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=2aa889")/>
 </p>
--->
+
 
 <!--
 ## Stats
