@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to Martins Adogamhe's GitHub Profile! 👋
+# DESIGNER AND WEB DEVELOPER
 
 ![Profile Image](theme-image.jpg)
 
 ## About Me
-Hello, world! I'm Martin’s Adogamhe, a software development student based in Canada. I'm passionate about crafting elegant and functional websites using HTML, CSS, and JavaScript. Currently studying at MITT, I'm eager to expand my skills and contribute to innovative projects in the tech world.
+I'm Martin’s Adogamhe, a software development student based in Canada. I'm passionate about crafting elegant and functional websites using HTML, CSS, and JavaScript. Currently studying at MITT, I'm eager to expand my skills and contribute to innovative projects in the tech world.
 
 ## Skills
 <!--
