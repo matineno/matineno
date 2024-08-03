@@ -21,30 +21,14 @@ Here are some ideas to get you started:
 I'm Martin’s Adogamhe, a software development student based in Canada. I'm passionate about crafting elegant and functional websites using HTML, CSS, and JavaScript. Currently studying at MITT, I'm eager to expand my skills and contribute to innovative projects in the tech world.
 
 ## Skills
-<!--
-[![HTML](https://img.shields.io/badge/HTML-Expert-orange)](https://your-html-skills-url.com)
-[![CSS](https://img.shields.io/badge/CSS-Expert-blue)](https://your-css-skills-url.com)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)](https://your-js-skills-url.com)
--->
-<!--
 <p align="center">
+  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=5f93ff"/>&nbsp;
+  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=5f93ff"/>&nbsp;
   <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=5f93ff"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=5f93ff")/>&nbsp;
-  <img src="https://img.shields.io/badge/code-typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=5f93ff")/>&nbsp;
-  <img src="https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=5f93ff")/>&nbsp;
-  <img src="https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=5f93ff")/>&nbsp;
-  <img src="https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=coffeescript&logoColor=white&color=5f93ff")/>&nbsp;
-  <img src="https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=5f93ff")/>&nbsp;
-  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=5f93ff")/>&nbsp;
-  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=5f93ff")/>&nbsp;
-  <img src="https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=5f93ff")/>&nbsp;
-  <img src="https://img.shields.io/badge/db-firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=5f93ff")/>
-</p>
--->
-<p align="center">
-  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=5f93ff")/>&nbsp;
-  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=5f93ff")/>&nbsp;
-  <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=5f93ff"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-react.js-informational?style=for-the-badge&logo=react&logoColor=white&color=5f93ff"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-csharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=5f93ff"/>&nbsp;
+  <img src="https://img.shields.io/badge/framework-asp.net_mvc-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=5f93ff"/>&nbsp;
+  <img src="https://img.shields.io/badge/engine-unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=5f93ff"/>&nbsp;
 </p>
 
 ##
@@ -59,6 +43,3 @@ I'm Martin’s Adogamhe, a software development student based in Canada. I'm pas
 <a href="https://github.com/matineno">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matineno&theme=dark&bg_color=14151d&text_color=5f93ff&hide=Ruby&show_icons=true&langs_count=3" alt="My GitHub stats"/>
 </a>
-
-
-
