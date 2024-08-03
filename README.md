@@ -28,9 +28,8 @@ I'm Martin’s Adogamhe, a software development student based in Canada. I'm pas
   <img src="https://img.shields.io/badge/code-react.js-informational?style=for-the-badge&logo=react&logoColor=white&color=5f93ff"/>&nbsp;
   <img src="https://img.shields.io/badge/code-csharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=5f93ff"/>&nbsp;
   <img src="https://img.shields.io/badge/framework-asp.net_mvc-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=5f93ff"/>&nbsp;
-  <img src="https://img.shields.io/badge/engine-unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=5f93ff"/>&nbsp;
   <img src="https://img.shields.io/badge/db-mssql-informational?style=for-the-badge&logo=sqlserver&logoColor=white&color=5f93ff"/>&nbsp;
-  <img src="https://img.shields.io/badge/tool-sql_server_management_studio-informational?style=for-the-badge&logo=sqlserver&logoColor=white&color=5f93ff"/>&nbsp;
+  <img src="https://img.shields.io/badge/engine-unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=5f93ff"/>&nbsp;
 </p>
 
 ##
