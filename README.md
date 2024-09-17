@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Profile Image](theme-image.jpg)
 
 ## About Me
-I'm Martin’s Adogamhe, a software development student based in Canada. I'm passionate about crafting elegant and functional fullstack applications. Currently studying at MITT, I'm eager to expand my skills and contribute to innovative projects in the tech world.
+I'm Martins Adogamhe, a software development student based in Canada. I'm passionate about crafting elegant and functional fullstack applications. Currently studying at MITT, I'm eager to expand my skills and contribute to innovative projects in the tech world.
 
 ## Skills
 <p align="center">
